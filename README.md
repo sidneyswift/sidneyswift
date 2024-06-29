@@ -8,6 +8,6 @@
   
 - 📫 Feel free to reach out to me at sidney@syncstream.ai. I’m always open to interesting conversations and new opportunities!
   
-- ⚡ Fun fact: When I'm not working on SyncStream, you might find me exploring new music genres or enjoying a good book.
+- ⚡ Fun fact: When I'm not working on SyncStream, you can find me producing music or hangin' with the family.
   
 - 😄 Pronouns: He/Him
