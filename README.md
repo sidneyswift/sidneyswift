@@ -1,13 +1,1 @@
-- 👋 Hi, I’m Sidney.
-
-- 👀 I’m passionate about music technology, and how AI will transform the way artists engage with their fans.
-  
-- 🌱 I’m currently diving deep into coding techniques and always on the lookout for new ways to innovate in music space.
-
-- 💞️ I’m looking to collaborate on exciting projects that combine music and tech to create amazing products for A-list artists.
-  
-- 📫 Feel free to reach out to me at sidney@syncstream.ai. I’m always open to interesting conversations and new opportunities!
-  
-- ⚡ Fun fact: When I'm not working on SyncStream, you can find me producing music or hangin' with the family.
-  
-- 😄 Pronouns: He/Him
+Entrepreneur, Grammy-winning producer, and AI innovator with a focus on transforming the music industry through cutting-edge technology. From early beginnings as an intern to producing for icons like Beyoncé and Lil Wayne, the journey has led to over 2 billion streams and pioneering ventures, including patented technology synchronizing Spotify with video games, the development of the first virtual artist signed by Atlantic Records, and the launch of a decentralized record label. Now, as founder of Recoup, my work centers on advancing AI agents that redefine fan engagement and data insights for modern music executives. Connect to explore the future of music and tech.
