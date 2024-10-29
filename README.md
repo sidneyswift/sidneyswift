@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidneyswift, but you can call me Sid!
+- 👋 Hi, I’m Sidney.
 
 - 👀 I’m passionate about music technology, and how AI will transform the way artists engage with their fans.
   
